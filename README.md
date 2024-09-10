@@ -7,7 +7,7 @@ Sou estudante de Engenharia da Computação na UNAERP, apaixonado por tecnologia
 ## Projetos em Destaque
 
 ### [Power Beast](https://powerbeast.com.br/)
-Um dos meus projetos mais recentes, Power Beast, é uma plataforma inovadora que estou desenvolvendo. Confira o link para mais informações sobre o projeto.
+Um dos meus projetos mais recentes, Power Beast, é um gerenciador de bateria focado no publico gamer. Confira o link para mais informações sobre o projeto.
 
 ## Habilidades e Tecnologias
 
